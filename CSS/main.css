@@ -1,0 +1,17 @@
+
+.content{
+    min-height: 100vh;
+    background-image: url("../IMG/Capture.png");
+    background-size:cover ;
+    }
+    
+    #text
+    {
+        border-radius: 20px;
+    }
+    .quote-box{
+        padding: 50px 10px  0 ;
+        background-color: rgba(0, 0, 0, 0.8);
+        min-height: 450px;
+    }
+    
